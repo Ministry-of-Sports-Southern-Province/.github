@@ -118,7 +118,7 @@ We follow consistent practices across all repositories:
 | Channel | Details |
 |---|---|
 | 🌐 **Website** | [www.sportsdpsp.lk](https://www.sportsdpsp.lk) |
-| 📧 **Official Email** | [sportsdpsp.gove@gmail.com](mailto:sportsdpsp.gove@gmail.com) |
+| 📧 **Official Email** | [sportsdpsp.gov@gmail.com](mailto:sportsdpsp.gov@gmail.com) |
 | 📍 **Address** | 3rd Floor, Dakshinapaya, Ministry Complex, Labuduwa, Galle |
 | 🏛️ **GitHub Org** | [Ministry-of-Sports-Southern-Province](https://github.com/Ministry-of-Sports-Southern-Province) |
 
