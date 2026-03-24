@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-sportsdpsp.lk-1e5f99?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sportsdpsp.lk)
-[![Email](https://img.shields.io/badge/Email-sportsdpsp.gove%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sportsdpsp.gove@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sportsdpsp.gov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sportsdpsp.gov@gmail.com)
 [![GitHub Org](https://img.shields.io/badge/GitHub-Ministry--of--Sports--SP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ministry-of-Sports-Southern-Province)
 
 <br/>
